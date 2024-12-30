@@ -1,5 +1,9 @@
 # my-steam-grid
-this is my steam grid that i use :)
+this is my steam grid that i maintain and use :)
+
+to download got to releases and download the Download Grid.exe file (source code in the github) and run it
+
+or
 
 to download press code then download as zip, extract it and go to: C:\Program Files (x86)\Steam\userdata\ (random numbers) and paste the config folder, now check on steam if they are there if they are not restart steam
 
