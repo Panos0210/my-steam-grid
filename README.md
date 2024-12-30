@@ -1,5 +1,5 @@
 # my-steam-grid
-this is my steam grid that i maintain and use :)
+this is my steam grid that i use use and maintain :)
 
 to download got to releases and download the Download Grid.exe file (source code in the github) and run it
 
