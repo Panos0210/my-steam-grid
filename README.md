@@ -3,6 +3,8 @@ this is my steam grid that i use use and maintain :)
 
 to download got to releases and download the [Download Grid.exe](https://github.com/Panos0210/my-steam-grid/releases/download/1.0/Download.Grid.exe) file (source code in the github) and run it
 
+for the linoux version you will need to run the [Download Grid (Linux).run] script as sudo ("sudo ./Download Grid (Linux).run")
+
 or
 
 to download press code then download as zip, extract it and go to: C:\Program Files (x86)\Steam\userdata\ (random numbers) and paste the config folder, now check on steam if they are there if they are not restart steam
