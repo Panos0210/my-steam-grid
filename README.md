@@ -3,7 +3,7 @@ this is my steam grid that i use use and maintain :)
 
 to download got to releases and download the [Download Grid.exe](https://github.com/Panos0210/my-steam-grid/releases/download/1.0/Download.Grid.exe) file (source code in the github) and run it
 
-for the linux version you will need to run the [Download Grid Linux.sh](https://github.com/Panos0210/my-steam-grid/releases/download/1.0/Download.Grid.Linux.sh) script as sudo ("sudo ./Download.Grid.Linux") to give the script the permissions to run type this command in: `chmod +x Download.Grid.Linux.sh`
+for the linux version you will need to run the [Download Grid Linux.sh](https://github.com/Panos0210/my-steam-grid/releases/download/1.0/Download.Grid.Linux.sh) script as sudo (`sudo ./Download.Grid.Linux`) to give the script the permissions to run type this command in: `chmod +x Download.Grid.Linux.sh`
 
 or
 
