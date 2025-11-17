@@ -58,7 +58,7 @@ def userdata_textbox_win():
     path_layout = QVBoxLayout()
     
     path_label = QLabel('Now you have to select the Steam/userdata folder directory on your pc\n'
-                        r'(Default Steam userdata folder directory on windows is: C:\Program Files(x86)\Steam\Userdata)')
+                        r'(Default Steam userdata folder directory on your system is: C:\Program Files(x86)\Steam\Userdata)')
     path_label.setWordWrap(True)
     
     path_input = QLineEdit(r"C:\Program Files (x86)\Steam\userdata")
@@ -126,3 +126,4 @@ welcome.setLayout(welcome_layout)
 welcome.show()
 
 sys.exit(app.exec_())
+
