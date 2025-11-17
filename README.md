@@ -8,4 +8,8 @@ there are 2 main ways of installing it:
 if you are updating the grid it is the exact same process but youll press replace all instead of skipping the already pasted files bc sometimes i change them
 
 note: some games like dbh and rdr2 have alternitive grids that are named "app id""type of background (p or h)"_alt
-also i dont intend into making a macos version as i dont own a mac and dont have pans to get one. additionally macos and linux are very similar (from what i understand macos is linux based but im not sure) so the appimage may work for that too. but idk
+
+# Future Plans
+i will continue to maintain it (as i actually use it for myself too and thats the reason i made it in the first place) but i dont intend into making a macos version as i dont own a mac and dont have pans to get one. additionally macos and linux are very similar (from what i understand macos is linux based but im not sure) so the appimage may work for that too. but idk
+
+and i dont think that there will be a new version after 2.0 as compiling it into a appimage was really hard and im not looking into redoing the whole process and there isnt anything else to add
