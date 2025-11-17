@@ -1,7 +1,7 @@
 # my-steam-grid
 this is my steam grid that i use use and maintain :)
 there are 2 main ways of installing it:
-1. (Recommended) just get the [exe](https://github.com/Panos0210/my-steam-grid/releases/download/2.0/Download.Grid.exe) or [appimage](https://github.com/Panos0210/my-steam-grid/releases/download/2.0/Download.Grid.Linux.AppImage) installer and run it. thats all. everything else is pretty self explanatory with instructions inside the app
+1. (Recommended) just get the [exe](https://github.com/Panos0210/panso-steam-grid/releases/download/2.0/Download.Grid.exe) or [appimage](https://github.com/Panos0210/panso-steam-grid/releases/download/2.0/Download.Grid.Linux.AppImage) installer and run it. thats all. everything else is pretty self explanatory with instructions inside the app
    
 2. press the green code button on the top of the screen then download as zip, extract it and go to: C:\Program Files (x86)\Steam\userdata\ (random numbers) and paste the config folder, now check on steam if they are there if they are not restart steam
 
