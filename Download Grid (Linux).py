@@ -2,7 +2,7 @@ import os, sys, urllib.request, zipfile, shutil, tempfile
 from PyQt5.QtCore import Qt, QThread, pyqtSignal, QObject
 from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QLineEdit, QTextEdit, QPushButton, QVBoxLayout, QHBoxLayout, QMessageBox
 
-repo = 'https://github.com/Panos0210/my-steam-grid/archive/refs/heads/main.zip'
+repo = 'https://github.com/Panos0210/panso-steam-grid/archive/refs/heads/main.zip'
 username = os.getlogin()
 
 
@@ -28,7 +28,7 @@ class Worker(QObject):
             with zipfile.ZipFile(output, 'r') as zip_ref:
                 zip_ref.extractall(extracted_dir)
 
-            config_folder_path = os.path.join(extracted_dir, "my-steam-grid-main", "config")
+            config_folder_path = os.path.join(extracted_dir, "panso-steam-grid-main", "config")
             if not os.path.exists(config_folder_path):
                 self.progress.emit("Error: 'config' folder not found in the extracted ZIP!")
                 return
